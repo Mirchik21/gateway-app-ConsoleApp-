@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\classwork\\gateway-client\\gateway-client\\gateway-client.csproj": {}
+  },
+  "projects": {
+    "C:\\classwork\\gateway-client\\gateway-client\\gateway-client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\classwork\\gateway-client\\gateway-client\\gateway-client.csproj",
+        "projectName": "gateway-client",
+        "projectPath": "C:\\classwork\\gateway-client\\gateway-client\\gateway-client.csproj",
+        "packagesPath": "C:\\Users\\magnus\\.nuget\\packages\\",
+        "outputPath": "C:\\classwork\\gateway-client\\gateway-client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\magnus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://nuget.grapecity.com/nuget": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

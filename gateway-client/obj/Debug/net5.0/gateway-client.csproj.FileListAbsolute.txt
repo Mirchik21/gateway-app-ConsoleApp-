@@ -1,0 +1,16 @@
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.csproj.AssemblyReference.cache
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.AssemblyInfoInputs.cache
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.AssemblyInfo.cs
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.csproj.CoreCompileInputs.cache
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.exe
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.deps.json
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.runtimeconfig.json
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.runtimeconfig.dev.json
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.dll
+C:\classwork\gateway-client\gateway-client\bin\Debug\net5.0\gateway-client.pdb
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.dll
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\refint\gateway-client.dll
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.pdb
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\gateway-client.genruntimeconfig.cache
+C:\classwork\gateway-client\gateway-client\obj\Debug\net5.0\ref\gateway-client.dll
